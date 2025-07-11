@@ -4,7 +4,7 @@ my quest to calculate the highest fibonacci number i can in 1 second
 this whole project started when i was getting some code rojects to do in the summer and found a video about calculating fibonacci numbers in 1 second. 
 this intruiged me and i started trying, first in c but that had some problems with the length of the charchters and then in python
 
-python worked like a charm with some small fixes and tinkering i got these results
+python worked like a charm with some small fixes and tinkering i got reasonable results
 
 ## results in python
 
@@ -36,3 +36,5 @@ if we put these in graphs we get these
 <img width="482" height="290" alt="download" src="https://github.com/user-attachments/assets/5e33df8e-9f5e-4e7a-9aac-0a329d4b44ef" />
 
 on the left we have the print time, bottom time calc and right length number
+
+reminder this is all on a shitty chromebook
