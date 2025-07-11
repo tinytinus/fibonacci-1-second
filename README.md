@@ -30,6 +30,8 @@ python worked like a charm with some small fixes and tinkering i got these resul
 the first colunm is the time given for the calculations, the second column is the time it took to print in my terminal and the third is the length of the fibonacci number
 
 if we put these in graphs we get these 
+
+
 <img width="482" height="290" alt="download" src="https://github.com/user-attachments/assets/8ca4cc20-c171-4727-86d8-2e794a3b14d2" />
 <img width="482" height="290" alt="download" src="https://github.com/user-attachments/assets/5e33df8e-9f5e-4e7a-9aac-0a329d4b44ef" />
 
